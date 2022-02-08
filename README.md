@@ -1,5 +1,5 @@
 # hola-mundo
-Primer repositorio de prueba
+Primer repositorio en otra rama.
 
 Autor: Miguel Arturo Velasco Ramírez
 
